@@ -2,6 +2,6 @@ av
 keras
 mediapipe
 numpy
-opencv_python
+opencv-contrib-python-headless
 streamlit
 streamlit_webrtc
