@@ -1,7 +1,0 @@
-av
-keras
-mediapipe
-numpy
-opencv-contrib-python-headless
-streamlit
-streamlit_webrtc
